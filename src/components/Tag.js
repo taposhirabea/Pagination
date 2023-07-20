@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { render } from 'react-dom';
 import { COUNTRIES } from './countries';
 
 import { WithContext as ReactTags } from 'react-tag-input';

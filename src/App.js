@@ -2,12 +2,15 @@
 import './App.css';
 import Pagination from './components/Pagination';
 import React from 'react';
+import Tag from './components/Tag';
 
 function App() {
   return (
     <div className="App">
       <h1>Product List</h1>
     <Pagination/>
+    <br/>
+    <Tag/>
     </div>
   );
 }
