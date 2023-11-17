@@ -1,10 +1,10 @@
-// import React from 'react'
-// import ProductList from '../components/ProductList'
+import React from 'react'
+import ProductList from '../components/ProductList'
 
-// export default function HomePage() {
-//   return (
-//     <div>
-//         <ProductList  products={products}  currentPage={currentPage} itemsPerPage={itemsPerPage}/>
-//     </div>
-//   )
-// }
+export default function HomePage() {
+  return (
+    <div>
+       hellow 
+    </div>
+  )
+}
